@@ -1,0 +1,22 @@
+.bsd{
+	display: flex;
+	justify-content: center;
+
+}
+.submit
+{
+	margin-right: 50px; 
+}
+button{
+	background-color: #5fcf80 ;
+	border: none;
+	font-size: 14px;
+	padding: 7px 14px;
+}
+button:hover{
+	background-color: #03001C;border: none;
+	color: white;
+}
+h2{
+	    text-align: center;
+}

@@ -1,0 +1,24 @@
+.container{
+	position: relative;
+	left: 600px;
+	top: 170px;
+	font-family: 'Libre Baskerville', serif;
+}
+button{
+	position: relative;
+	left: 50px;
+	background: #f77e02;
+	border:none;
+	padding: 10px 15px;
+	border-radius: 12px;
+	font-family: 'Rubik', sans-serif;
+	cursor: pointer;
+}
+button:hover{
+	background: black;
+	color: white;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
